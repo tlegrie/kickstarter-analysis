@@ -40,7 +40,11 @@
 -	August, October, and December underperformed relative to the overall historical Theater Kickstarter campaign average success rate at 59%, 57%, and 49%, respectively;
 -	Whereas, September and November each performed in-line with the historical Theater Kickstarter campaign average success rate of 61%.
 
-### Analysis of Outcomes Based on Goals
+### Analysis of Outcomes Based on Goals:  In examining outcomes based upon goals, it became apparent that nearly two-thirds, equating to approximately 66%, of historical Theater Kickstarter campaigns proved to be successful on average, irrespective of the established Kickstarter campaign goal amount. However, it should be noted that in spite of the overall average success rate for Historical Kickstarter campaign results there were a total of seven (7) months that underperformed in terms of historical Theater Kickstarter campaign success rates: 
+
+1)	Goal amounts in the ranges of $1,000 - $4,999, $10,000 - $14,999, $15,000 - $19,999, $20,000 - $24,999, $25,000 - $29,999, $40,000 - $44,999, and Greater Than $50,000 each achieved average historical Theater Kickstarter campaign success rates of below the overall average of 66%:
+
+#### ![image](https://user-images.githubusercontent.com/81484486/116021772-d8b27f00-a616-11eb-8516-a5f839deb273.png)
 
 ### Challenges and Difficulties Encountered
 
