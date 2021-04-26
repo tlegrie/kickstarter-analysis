@@ -46,14 +46,23 @@
 
 #### ![image](https://user-images.githubusercontent.com/81484486/116021858-0d263b00-a617-11eb-9742-a6411eed15b6.png)
 
-### Challenges and Difficulties Encountered
+### Challenges and Difficulties Encountered: In terms of challenges and/or difficulties encountered throughout the course of this component of the analysis, fortunately, there were not any material hinderances in gleaning relevant and constructive insights. The primary requirement was a further drill-down on the data beyond what the original analysis specifications called for. Additionally, the analysis required a comprehensive and holistic critical analysis in order to flesh-out the truly important data elements that informed the constructive insights in terms of Kickstarter campaign success rates for the Theater/Play Category/Subcategory.
 
-## Results
+## Results:
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+-	Based upon the data analysis, we can draw two (2) primary overarching conclusions:
 
-- What can you conclude about the Outcomes based on Goals?
+1)	Theater Kickstarter campaigns on successful more than six (6) out of every ten (10) attempts regardless of the month in which they are launched, and;
+2)	Theater Kickstarter campaigns are success nearly two-thirds (2/3) of the time irrespective of the amount set forth as their funding goal.
 
-- What are some limitations of this dataset?
+-	However, it should also be noted that despite the overall success rate, there are still important success factor considerations, namely, avoiding certain aforementioned months and campaign goals amounts that underperformed the success rate averages for their respective cohorts in terms of launch date and goal amount, respectively. 
 
-- What are some other possible tables and/or graphs that we could create?
+-	Relative to each respective analysis that was conducted, we can reasonably conclude the following: 
+
+•	For Theater Kickstarter campaign launch month, the historical data suggests that the most successful month is the month of May, and the least successful month is the month of December. 
+
+•	For Theater Kickstarter campaign funding goals, the historical data suggests that there are four (4) fundraising goal ranges that achieve the greatest success: (1) Less Than $1,000 at 76%, $1,000 - $4,999 at 73%, $35,000 - $39,999 at 67%, and $40,000 - $44,999 also at 67%. 
+
+-	The dataset was limited in terms of the aforementioned data specific to geography and Backer quality. Since art in the form of theatrical plays is a locally consumed resource, it stands to reason that more specific geographical data would be relevant and useful. Additionally, since fundraising relative to predetermined fundraising goals is a key determinant of success, it would also be helpful to have useful data specific to Backer quality in order to inform fundraising targets and tactics for identifying the highest-value Backers and how best or pursue them and garner their support. 
+
+-	In the future, additional data views specific to cross-tabulating Theater Kickstarter campaign success by launch date and fund raising goal amount could potentially help to further drill-down on any correlated factors that could support an understanding of the most constructive Theater Kickstarter campaign approaches that will maximize the likelihood for success. 
