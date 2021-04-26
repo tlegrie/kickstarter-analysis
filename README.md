@@ -62,12 +62,12 @@
 
 -	However, it should also be noted that despite the overall success rate, there are still important success factor considerations, namely, avoiding certain aforementioned months and campaign goals amounts that underperformed the success rate averages for their respective cohorts in terms of launch date and goal amount, respectively. 
 
--	Relative to each respective analysis that was conducted, we can reasonably conclude the following: 
+### Relative to each respective analysis that was conducted, we can reasonably conclude the following: 
 
-•	For Theater Kickstarter campaign launch month, the historical data suggests that the most successful month is the month of May, and the least successful month is the month of December. 
+#### For Theater Kickstarter campaign launch month, the historical data suggests that the most successful month is the month of May, and the least successful month is the month of December. 
 
-•	For Theater Kickstarter campaign funding goals, the historical data suggests that there are four (4) fundraising goal ranges that achieve the greatest success: (1) Less Than $1,000 at 76%, $1,000 - $4,999 at 73%, $35,000 - $39,999 at 67%, and $40,000 - $44,999 also at 67%. 
+#### For Theater Kickstarter campaign funding goals, the historical data suggests that there are four (4) fundraising goal ranges that achieve the greatest success: (1) Less Than $1,000 at 76%, $1,000 - $4,999 at 73%, $35,000 - $39,999 at 67%, and $40,000 - $44,999 also at 67%. 
 
-### The dataset was limited in terms of the aforementioned data specific to geography and Backer quality. Since art in the form of theatrical plays is a locally consumed resource, it stands to reason that more specific geographical data would be relevant and useful. Additionally, since fundraising relative to predetermined fundraising goals is a key determinant of success, it would also be helpful to have useful data specific to Backer quality in order to inform fundraising targets and tactics for identifying the highest-value Backers and how best or pursue them and garner their support. 
+#### The dataset was limited in terms of the aforementioned data specific to geography and Backer quality. Since art in the form of theatrical plays is a locally consumed resource, it stands to reason that more specific geographical data would be relevant and useful. Additionally, since fundraising relative to predetermined fundraising goals is a key determinant of success, it would also be helpful to have useful data specific to Backer quality in order to inform fundraising targets and tactics for identifying the highest-value Backers and how best or pursue them and garner their support. 
 
-### In the future, additional data views specific to cross-tabulating Theater Kickstarter campaign success by launch date and fund raising goal amount could potentially help to further drill-down on any correlated factors that could support an understanding of the most constructive Theater Kickstarter campaign approaches that will maximize the likelihood for success. 
+#### In the future, additional data views specific to cross-tabulating Theater Kickstarter campaign success by launch date and fund raising goal amount could potentially help to further drill-down on any correlated factors that could support an understanding of the most constructive Theater Kickstarter campaign approaches that will maximize the likelihood for success. 
