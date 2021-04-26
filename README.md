@@ -56,7 +56,7 @@
 
 ### ![image](https://user-images.githubusercontent.com/81484486/116023478-28467a00-a61a-11eb-8434-50ad487029ea.png)
 
-3)	Theater Kickstarter campaigns are success nearly two-thirds (2/3) of the time irrespective of the amount set forth as their funding goal.
+2)	Theater Kickstarter campaigns are success nearly two-thirds (2/3) of the time irrespective of the amount set forth as their funding goal.
 
 ### ![image](https://user-images.githubusercontent.com/81484486/116023514-3e543a80-a61a-11eb-8eac-66e19d47bce2.png)
 
