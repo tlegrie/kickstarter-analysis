@@ -44,7 +44,7 @@
 
 1)	Goal amounts in the ranges of $1,000 - $4,999, $10,000 - $14,999, $15,000 - $19,999, $20,000 - $24,999, $25,000 - $29,999, $40,000 - $44,999, and Greater Than $50,000 each achieved average historical Theater Kickstarter campaign success rates of below the overall average of 66%:
 
-#### ![image](https://user-images.githubusercontent.com/81484486/116021772-d8b27f00-a616-11eb-8516-a5f839deb273.png)
+#### ![image](https://user-images.githubusercontent.com/81484486/116021858-0d263b00-a617-11eb-9742-a6411eed15b6.png)
 
 ### Challenges and Difficulties Encountered
 
