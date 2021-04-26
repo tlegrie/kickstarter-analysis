@@ -8,7 +8,18 @@
 
 ### Purpose: Ultimately, the primary focus underlying the purpose of this analysis on Louise’s behalf is to empirically inform recommendations that will help Louise’s play Fever to be carried forth successfully based upon her specific campaign factors, namely launch date and funding goals. 
 
-## Analysis and Challenges
+## Analysis and Challenges: We completed two (2) primary analyses pursuant to Louise’s Kickstarter campaign goals for her play Fever:
+
+1)	Theater Outcomes by Launch Date, and;
+2)	Outcomes Based on Goals.
+
+## In terms of challenges, the initially obtained Kickstarter dataset required refinements that enabled us to drill-down on the specific factors associated with historical Theater/Play Kickstarter campaign success. Specifically, we massaged the data so that we could isolate Parent Category i.e., Theater and the corresponding Subcategory i.e., Plays, since they were previously grouped as one general category known as Category and Subcategory. This allowed us to subsegment the data in order to produce more specific and robust insights. 
+
+## Additionally, we further refined data specific to Kickstarter campaign dates by years executed and months launched across all years. Some of the data that would have been useful in terms of the analysis that was not included within the Kickstarter dataset that we obtained included the following:
+
+-	City within the Kickstarter campaign country, as this would have been helpful in determining whether or not there is a specific geography or city within a given country in which specific Kickstarter campaigns have historically achieved more frequent success. For example, the Theater District within New York City, specifically Broadway, is a highly concentrated center of Theater activity, and the Kickstarter dataset that we worked with did not provide that detailed level of geographical data, and;
+
+-	Backer characteristics or some sort of Backer quality rating was also another data element that was not provided within the Kickstarter dataset. Since we can reasonably assume that all Backers are not equal in terms of ability to donate and even their respective ability to “pick a winner”, and that conceivably informed average amounts pledged/donated by Backer for each given Kickstarter campaign, it would have been helpful to have some sort of data point specific to the quality of each Backers in terms of prior pledged/donation history, as well as whether or not they had a strong track record of identifying and subsequently pledging/donating to Kickstarter campaigns that ultimately achieved success – or quite simply – picking winning Kickstarter campaigns. 
 
 ### Analysis of Outcomes Based on Launch Date
 
