@@ -21,7 +21,22 @@
 
 -	Backer characteristics or some sort of Backer quality rating was also another data element that was not provided within the Kickstarter dataset. Since we can reasonably assume that all Backers are not equal in terms of ability to donate and even their respective ability to “pick a winner”, and that conceivably informed average amounts pledged/donated by Backer for each given Kickstarter campaign, it would have been helpful to have some sort of data point specific to the quality of each Backers in terms of prior pledged/donation history, as well as whether or not they had a strong track record of identifying and subsequently pledging/donating to Kickstarter campaigns that ultimately achieved success – or quite simply – picking winning Kickstarter campaigns. 
 
-### Analysis of Outcomes Based on Launch Date
+### Analysis of Outcomes Based on Launch Date: Overall, the analysis yielded favorable results in terms of historical results for Theater (Parent Category) Kickstarter campaign outcomes across the majority of launch months. On average, 61% of historical Theater Kickstarter campaigns have been successful ![image](https://user-images.githubusercontent.com/81484486/116019558-722b6200-a612-11eb-871b-7796f65d1d17.png): 
+
+#### In total, of the 1,369 historical Theater Kickstarter campaigns 839 or 61% achieved success. By month, the success rates varied, with four (4) of the twelve (12) months proving to be underperforming months relative to the historical average:
+
+-	January was observed to have had a 58% historical Theater Kickstarter campaign success rate;
+-	August was observed to have had a 59% historical Theater Kickstarter campaign success rate;
+-	October was observed to have had a 57% historical Theater Kickstarter campaign success rate, and;
+-	December was observed to have had the lowest historical Theater Kickstarter campaign success rate at 49%. 
+
+#### Conversely, the remaining eight (8) months of the year were observed to have had historical Theater Kickstarter campaign success rate above or equal to the overall Theater Kickstarter campaign success rate of 61%:
+
+-	February was observed to have had a 63% historical Theater Kickstarter campaign success rate of 63%:
+-	March was observed to have a had an historical Theater Kickstarter campaign success rate equal to the overall Theater Kickstarter success rate average of 61%;
+-	The following four (4) months each, respectively, have historical Theater Kickstarter campaign success rates that exceeded the overall historical Theater Kickstarter success rate: April at 63%; May at 67%; June at 65%, and; July at 63%;
+-	August, October, and December underperformed relative to the overall historical Theater Kickstarter campaign average success rate at 59%, 57%, and 49%, respectively;
+-	Whereas, September and November each performed in-line with the historical Theater Kickstarter campaign average success rate of 61%.
 
 ### Analysis of Outcomes Based on Goals
 
