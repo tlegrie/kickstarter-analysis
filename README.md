@@ -21,7 +21,9 @@
 
 -	Backer characteristics or some sort of Backer quality rating was also another data element that was not provided within the Kickstarter dataset. Since we can reasonably assume that all Backers are not equal in terms of ability to donate and even their respective ability to “pick a winner”, and that conceivably informed average amounts pledged/donated by Backer for each given Kickstarter campaign, it would have been helpful to have some sort of data point specific to the quality of each Backers in terms of prior pledged/donation history, as well as whether or not they had a strong track record of identifying and subsequently pledging/donating to Kickstarter campaigns that ultimately achieved success – or quite simply – picking winning Kickstarter campaigns. 
 
-### Analysis of Outcomes Based on Launch Date: Overall, the analysis yielded favorable results in terms of historical results for Theater (Parent Category) Kickstarter campaign outcomes across the majority of launch months. On average, 61% of historical Theater Kickstarter campaigns have been successful ![image](https://user-images.githubusercontent.com/81484486/116019558-722b6200-a612-11eb-871b-7796f65d1d17.png): 
+### Analysis of Outcomes Based on Launch Date: Overall, the analysis yielded favorable results in terms of historical results for Theater (Parent Category) Kickstarter campaign outcomes across the majority of launch months. On average, 61% of historical Theater Kickstarter campaigns have been successful: 
+
+![image](https://user-images.githubusercontent.com/81484486/116019558-722b6200-a612-11eb-871b-7796f65d1d17.png) 
 
 #### In total, of the 1,369 historical Theater Kickstarter campaigns 839 or 61% achieved success. By month, the success rates varied, with four (4) of the twelve (12) months proving to be underperforming months relative to the historical average:
 
