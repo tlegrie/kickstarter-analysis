@@ -53,7 +53,12 @@
 -	Based upon the data analysis, we can draw two (2) primary overarching conclusions:
 
 1)	Theater Kickstarter campaigns on successful more than six (6) out of every ten (10) attempts regardless of the month in which they are launched, and;
-2)	Theater Kickstarter campaigns are success nearly two-thirds (2/3) of the time irrespective of the amount set forth as their funding goal.
+
+### ![image](https://user-images.githubusercontent.com/81484486/116023478-28467a00-a61a-11eb-8434-50ad487029ea.png)
+
+3)	Theater Kickstarter campaigns are success nearly two-thirds (2/3) of the time irrespective of the amount set forth as their funding goal.
+
+### ![image](https://user-images.githubusercontent.com/81484486/116023514-3e543a80-a61a-11eb-8eac-66e19d47bce2.png)
 
 -	However, it should also be noted that despite the overall success rate, there are still important success factor considerations, namely, avoiding certain aforementioned months and campaign goals amounts that underperformed the success rate averages for their respective cohorts in terms of launch date and goal amount, respectively. 
 
