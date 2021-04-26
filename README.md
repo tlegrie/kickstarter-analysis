@@ -7,7 +7,6 @@
 ## Louise is a data-driven client, which required that we effectively ascertain tangible and actionable insights that will help her to proceed with constructive insights and with confidence in her ability to succeed in bringing her play Fever to the stage. 
 
 ### Purpose: Ultimately, the primary focus underlying the purpose of this analysis on Louise’s behalf is to empirically inform recommendations that will help Louise’s play Fever to be carried forth successfully based upon her specific campaign factors, namely launch date and funding goals. 
-![image](https://user-images.githubusercontent.com/81484486/116014582-fa563b00-a603-11eb-89df-b8cadf416b81.png)
 
 ## Analysis and Challenges
 
