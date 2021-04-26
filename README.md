@@ -8,7 +8,7 @@
 
 ### Purpose: Ultimately, the primary focus underlying the purpose of this analysis on Louise’s behalf is to empirically inform recommendations that will help Louise’s play Fever to be carried forth successfully based upon her specific campaign factors, namely launch date and funding goals. 
 
-## Analysis and Challenges: We completed two (2) primary analyses pursuant to Louise’s Kickstarter campaign goals for her play Fever:
+## Analysis and Challenges: We completed two (2) primary analyses pursuant to Louise’s Kickstarter campaign goals for her play Fever - the outcomes of which can be found here https://github.com/tlegrie/kickstarter-analysis:
 
 1)	Theater Outcomes by Launch Date, and;
 2)	Outcomes Based on Goals.
